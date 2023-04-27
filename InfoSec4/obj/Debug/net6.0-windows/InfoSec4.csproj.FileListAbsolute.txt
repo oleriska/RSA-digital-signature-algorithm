@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\InfoSec4\InfoSec4\bin\Debug\net6.0-windows\InfoSec4.exe
+C:\Users\user\source\repos\InfoSec4\InfoSec4\bin\Debug\net6.0-windows\InfoSec4.deps.json
+C:\Users\user\source\repos\InfoSec4\InfoSec4\bin\Debug\net6.0-windows\InfoSec4.runtimeconfig.json
+C:\Users\user\source\repos\InfoSec4\InfoSec4\bin\Debug\net6.0-windows\InfoSec4.dll
+C:\Users\user\source\repos\InfoSec4\InfoSec4\bin\Debug\net6.0-windows\InfoSec4.pdb
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.Form1.resources
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.AssemblyInfo.cs
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.dll
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\refint\InfoSec4.dll
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.pdb
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\InfoSec4.genruntimeconfig.cache
+C:\Users\user\source\repos\InfoSec4\InfoSec4\obj\Debug\net6.0-windows\ref\InfoSec4.dll

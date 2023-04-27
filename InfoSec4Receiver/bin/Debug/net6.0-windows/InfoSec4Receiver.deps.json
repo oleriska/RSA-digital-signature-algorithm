@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InfoSec4Receiver/1.0.0": {
+        "dependencies": {
+          "InfoSec4": "1.0.0"
+        },
+        "runtime": {
+          "InfoSec4Receiver.dll": {}
+        }
+      },
+      "InfoSec4/1.0.0": {
+        "runtime": {
+          "InfoSec4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InfoSec4Receiver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfoSec4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
